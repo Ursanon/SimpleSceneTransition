@@ -8,7 +8,7 @@ To this:
 <img src="https://github.com/Ursanon/SimpleSceneTransition/blob/master/media/fluent-load.gif" alt="Fluent scene transition" width="50%"/>
 
 ## Project structure
-
+```
 ├── Assets
 │   ├── Demo
 │   │   ├── Scenes
@@ -18,3 +18,4 @@ To this:
 │   └── TextMesh Pro
 ├── media
 └── README.md
+```
