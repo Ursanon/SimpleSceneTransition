@@ -1,8 +1,20 @@
 # Companion code for blog post
-Post (in polish) available [here]().
+Post (in polish) available [here](https://blog.kbegiedza.eu/wczytywanie-scen-w-unity).
 
 Upgrade your game from this:    
-![Simple scene loading](media/simple-load.gif) <!-- .element height="auto" max-width="50%" -->
+<img src="https://github.com/Ursanon/SimpleSceneTransition/blob/master/media/simple-load.gif" alt="Simple scene loading" width="50%"/>
 
 To this:    
-![Simple scene loading](media/fluent-load.gif) <!-- .element height="auto" max-width="50%" -->
+<img src="https://github.com/Ursanon/SimpleSceneTransition/blob/master/media/fluent-load.gif" alt="Fluent scene transition" width="50%"/>
+
+## Project structure
+
+├── Assets
+│   ├── Demo
+│   │   ├── Scenes
+│   │   └── Scripts
+│   ├── Prefabs
+│   ├── Scripts
+│   └── TextMesh Pro
+├── media
+└── README.md
